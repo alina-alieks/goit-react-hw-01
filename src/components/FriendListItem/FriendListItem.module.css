@@ -6,3 +6,20 @@
 .isOffline {
     color: red;
 }
+
+.friendImg {
+    display: block;
+    margin-bottom: 12px;
+}
+
+.wrapperCardFriend {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.friendName {
+    font-size: 20px;
+    font-weight: 600;
+}
